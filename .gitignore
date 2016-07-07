@@ -53,3 +53,6 @@ flaskbb/static/emoji/*
 .sass-cache
 bower_components
 node_modules
+#dev environment folder related
+env_b
+.settings
